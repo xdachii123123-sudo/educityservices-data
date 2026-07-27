@@ -1,0 +1,94 @@
+﻿{
+  "images": [
+    {
+      "id": "hero-image",
+      "name": "Hero image",
+      "image": "assets/1 6.png"
+    },
+    {
+      "id": "instagram-logo",
+      "name": "Instagram logo",
+      "image": "assets/16px-logo-instagram.svg"
+    },
+    {
+      "id": "shape-3-7",
+      "name": "ლევან ნამიჭეიშვილი",
+      "image": "assets/3 7.svg"
+    },
+    {
+      "id": "shape-3-8",
+      "name": "ნიკოლოზ არაქელოვი",
+      "image": "assets/3 8.svg"
+    },
+    {
+      "id": "shape-4-5",
+      "name": "მარიამ რთველაძე",
+      "image": "assets/4 5.svg"
+    },
+    {
+      "id": "shape-5-8",
+      "name": "თამუნა კოჩალიძე",
+      "image": "assets/5 8.svg"
+    },
+    {
+      "id": "educity-logo",
+      "name": "EduCity logo",
+      "image": "assets/EduCity White 1.svg"
+    },
+    {
+      "id": "facebook-logo",
+      "name": "Facebook logo",
+      "image": "assets/Facebook.svg"
+    },
+    {
+      "id": "group-36",
+      "name": "LinkedIn logo",
+      "image": "assets/Group 36.svg"
+    },
+    {
+      "id": "group-icon",
+      "name": "location",
+      "image": "assets/Group.svg"
+    },
+    {
+      "id": "linkedin-logo",
+      "name": "LinkedIn logo",
+      "image": "assets/Linkedin.png"
+    },
+    {
+      "id": "rectangle-39600",
+      "name": "Rectangle 39600",
+      "image": "assets/Rectangle 39600.svg"
+    },
+    {
+      "id": "rectangle-39611",
+      "name": "Rectangle 39611",
+      "image": "assets/Rectangle 39611.svg"
+    },
+    {
+      "id": "secondary",
+      "name": "Secondary artwork",
+      "image": "assets/Secondary.svg"
+    },
+    {
+      "id": "shape",
+      "name": "facebook",
+      "image": "assets/Shape.svg"
+    },
+    {
+      "id": "team-1",
+      "name": "ვაკო ქობულაშვილი",
+      "image": "assets/Team 1.svg"
+    },
+    {
+      "id": "vector-2",
+      "name": "email",
+      "image": "assets/Vector (2).svg"
+    },
+    {
+      "id": "vector-3",
+      "name": "phone",
+      "image": "assets/Vector (3).svg"
+    }
+  ]
+}
