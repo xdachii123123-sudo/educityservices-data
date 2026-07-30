@@ -2,40 +2,40 @@
     "ourteamcards":[
 
         {   "id":1,
-            "image":"",
-            "name":"ლევან ჩანაქვა",
+            "image":"assets/1 6.png",
+            "name":"ლევან ცანავა",
             "job":"დამფუძნებელი"
         },
 
         {
             "id":2,
-            "image":"",
+            "image":"assets/Team 1.svg",
             "name":"ვაკო ქობულაშვილი",
             "job":"დეველოპერი"
         },
         {
             "id":3,
-            "image":"",
+            "image":"assets/3 7.svg",
             "name":"ლევან ნამიჭეიშვილი",
             "job":"დეველოპერი"
         },
 
         {
             "id":4,
-            "image":"",
+            "image":"assets/4 5.svg",
             "name":"მარიამ რთველაძე",
             "job":"UI/UX დიზაინერი"
         },
         {
             "id":5,
-            "image":"",
+            "image":"assets/5 8.png",
             "name":"თამუნა კოჩალიძე",
             "job":"გრაფიკული დიზაინერი"
         },
 
         {
             "id":6,
-            "image":"",
+            "image":"assets/3 8.svg",
             "name":"ნიკოლოზ არაქელოვი",
             "job":"UI/UX დიზაინერი"
         }
