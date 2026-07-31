@@ -1,0 +1,40 @@
+{
+    "portfolio":[
+        {
+            "id":10,
+            "image":"assets/rectangle 39611.svg",
+            "title":"სოლო ჯგუფი",
+            "link":"ვებ-გვერდზე გადასვლა"
+        },
+        {
+            "id":11,
+            "image":"assets/rectangle 39611.svg",
+            "title":"სოლო ჯგუფი",
+            "link":"ვებ-გვერდზე გადასვლა"
+        },
+        {
+            "id":12,
+            "image":"assets/rectangle 39611.svg",
+            "title":"სოლო ჯგუფი",
+            "link":"ვებ-გვერდზე გადასვლა"
+        },
+        {
+            "id":13,
+            "image":"assets/rectangle 39611.svg",
+            "title":"სოლო ჯგუფი",
+            "link":"ვებ-გვერდზე გადასვლა"
+        },
+        {
+            "id":14,
+            "image":"assets/rectangle 39611.svg",
+            "title":"სოლო ჯგუფი",
+            "link":"ვებ-გვერდზე გადასვლა"
+        },
+        {
+            "id":15,
+            "image":"assets/rectangle 39611.svg",
+            "title":"სოლო ჯგუფი",
+            "link":"ვებ-გვერდზე გადასვლა"
+        }
+    ]
+}
